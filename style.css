@@ -1,0 +1,41 @@
+.a {
+    display: inline-block;
+    animation: bounceIn;
+    animation-duration: 2s;
+}
+
+.b {
+    display: inline-block;
+    animation: headShake;
+    animation-duration: 2s;
+}
+
+.c {
+    display: inline-block;
+    animation: flash;
+    animation-duration: 2s;
+}
+
+.d {
+    display: inline-block;
+    animation: heartBeat;
+    animation-duration: 2s;
+}
+
+.e {
+    display: inline-block;
+    animation: slideInRight;
+    animation-duration: 2s;
+}
+
+.f {
+    display: inline-block;
+    animation: slideInLeft;
+    animation-duration: 2s;
+}
+
+.g {
+    display: inline-block;
+    animation: shakeY;
+    animation-duration: 2s;
+}
